@@ -7,6 +7,40 @@ A web-based music streaming application built with Jakarta EE, featuring a nosta
 
 ---
 
+## 🎬 Preview
+
+### Demo Video
+
+Watch Meowsic in action:
+
+https://github.com/user-attachments/assets/demo.mp4
+
+> **Note**: If the video doesn't play inline, you can [download it here](preview/demo.mp4) or view it in the `preview/` folder.
+
+### Screenshots
+
+#### Login Page
+![Login Page](preview/Meowsic_login.png)
+*Clean and simple login interface with Y2K aesthetic*
+
+#### Registration Page
+![Registration Page](preview/Meowsic_register.png)
+*User-friendly registration form*
+
+#### User Song Library
+![User Songs](preview/Meowsic_user_songs.png)
+*Browse and play songs with an intuitive grid layout*
+
+#### Admin Dashboard
+![Admin Home](preview/Meowsic_admin_home_page.png)
+*Admin interface for managing the music library*
+
+#### Add Song (Admin)
+![Add Song](preview/Meowsic_admin_add-song.png)
+*Easy-to-use form for adding new songs to the library*
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
